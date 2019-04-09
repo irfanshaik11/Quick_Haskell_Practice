@@ -1,2 +1,2 @@
 # Quick_Haskell_Practice
-For Principles of Programming Languages Class at Rutgers
+CS 314 Assignment 3 at Rutgers
